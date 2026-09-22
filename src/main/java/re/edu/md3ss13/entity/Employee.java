@@ -2,8 +2,6 @@ package re.edu.md3ss13.entity;
 
 import lombok.*;
 
-import java.math.BigDecimal;
-
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
